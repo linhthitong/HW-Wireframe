@@ -1,0 +1,87 @@
+/**
+*Wireframe Week 1 Homework Activity
+**/
+
+body {
+    background-color:darkgray;
+    width: 960px;
+    margin: 0 auto;
+}
+
+.topdiv {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+    margin-top: 15px;
+    text-align: center;
+    background-color: lightgrey
+
+}
+
+.nav {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+    margin-top: 10px;
+    background-color: lightgrey;
+    text-align: center
+}
+
+.section {
+    padding-top: 50px;
+    padding-bottom: 30px;
+    margin-top: 20px;
+    background-color: green;
+    text-align: center;
+    width:51%;
+    float: left;
+}
+
+.article {
+    padding-top: 10px;
+    padding-bottom: 30px;
+    margin-top: 300px;
+    margin-bottom: 100px;
+    background-color: blue;
+    margin: 0 auto; 
+    width:90%;
+    z-index: 1
+}
+
+.text {
+    margin-top: 100px;
+    background-color:yellow;
+    margin: 0 auto;
+    width: 90%;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+.p { 
+    margin-top: 900px;
+    background-color:red;
+    margin: 0 auto;
+    width: 90%;
+    padding-top: 5px;
+    padding-bottom: 10px;
+
+}
+
+.aside {
+    /* float: right; */
+    background-color: green;
+    padding-top: 50px;
+    padding-bottom: 60px;
+    width: 42%;
+    height: 245px;
+    float: left;
+    margin-left: 65px;
+    margin-top: 20px;
+
+}
+
+.footer {
+    widows: 100%;
+    background-color: green;
+    clear: both;
+}
